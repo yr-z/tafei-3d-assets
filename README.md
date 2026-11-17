@@ -1,6 +1,6 @@
 # 🌸 永雏塔菲 3D MMD 网页专属资产库 (Ace Taffy 3D MMD Assets)
 
-本仓库专为绘谜 (enazo.cn) 及相关 Web 3D 看板娘提供永雏塔菲 3D MMD 模型、动作与贴图公共 CDN 资源加速服务。
+本仓库为永雏塔菲 3D MMD 模型、动作与贴图公共 CDN 资源加速服务。
 
 ## 📌 模之屋原作者借物表 (Credits)
 - **模型出处**：[模之屋 (Aplaybox)](https://www.aplaybox.com/)
